@@ -77,7 +77,7 @@ export default {
     h2{
       color: #FFF;
       margin-bottom: 0px;
-      background: brown;
+      background: rgb(44, 96, 207);
       padding: 15px;
       border-top-left-radius: 20px;
       border-top-right-radius: 20px;
@@ -101,7 +101,7 @@ export default {
       outline: none;
     }
     button:hover{
-      background: brown;
+      background: rgb(44, 96, 207);
       color: #FFF;
     }
 

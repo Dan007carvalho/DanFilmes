@@ -79,7 +79,7 @@ export default {
         text-decoration: none;
         color: #FFF;
         font-size: 25px;
-        background-color: brown;
+        background-color: rgb(44, 96, 207);
         width: 100%;
         height: 40px;
         margin-top: -30px;

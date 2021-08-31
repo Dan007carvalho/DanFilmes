@@ -18,7 +18,7 @@ export default {
     justify-content: space-around;
     width: 100%;
     height: 60px;
-    background-color: brown;
+    background-color: rgb(44, 96, 207);
   }
 
   #header a{
